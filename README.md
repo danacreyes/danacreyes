@@ -21,56 +21,57 @@ Me destaco por el pensamiento lógico, la resolución de problemas y la capacida
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=react" width="50"/><br/>
       React
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=ts" width="50"/><br/>
       TypeScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br/>
       Node.js
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="50"/><br/>
       Kotlin
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=spring" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=spring" width="50"/><br/>
       Spring Boot
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=svelte" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=svelte" width="50"/><br/>
       Svelte
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=html" width="50"/><br/>
       HTML5
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="50"/><br/>
       CSS3
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=js" width="50"/><br/>
       JavaScript
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql" width="50"/><br/>
       MySQL
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=git" width="50"/><br/>
       Git
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>
+      <img src="https://skillicons.dev/icons?i=github" width="50"/><br/>
       GitHub
     </td>
   </tr>
 </table>
-
 
 ---
 
